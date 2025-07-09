@@ -1,11 +1,10 @@
 ### Exercise 5a
 
-# Note, I used a slightly different repository name (as I already had a "gne_exercises"
-# repository.
-
 ```shell
-cd ~
-cd gne_exercises_aug25
+# Note, I used a slightly different repository name (as I 
+# already had a "gne_exercises" repository.
+$ cd ~
+$ cd gne_exercises_aug25
 
 $ mkdir lesson1
 $ mkdir lesson2
