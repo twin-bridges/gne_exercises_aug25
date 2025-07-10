@@ -1,6 +1,8 @@
 ### Exercise 6a
 
 ```shell
+# Note, I accidentally created 'lesson5/not-empty' when I did this exercise
+
 $ git add lesson*
 $ git status
 On branch main
@@ -19,6 +21,8 @@ Changes to be committed:
 ### Exercise 6b
 
 ```shell
+# Note, I accidentally created 'lesson5/not-empty' when I did this exercise
+
 $ git commit -m "Initial commit of per-lesson directories"
 [main (root-commit) 1edae0e] Initial commit of per-lesson directories
  5 files changed, 0 insertions(+), 0 deletions(-)
