@@ -20,7 +20,7 @@ $ git commit -m "Add broadcast address"
 
 ### Exercise 5b
 
-```bash
+```
 $ git push my_remote l4-feature1
 Username for 'https://github.com': jupiter-calisto
 Password for 'https://jupiter-calisto@github.com': 
@@ -40,24 +40,22 @@ To https://github.com/jupiter-calisto/gne_exercises_aug25
 
 ### Exercise 5c
 
-```bash
+```
 # Here is my example pull-request for this exercise (merged in step "5e"):
 https://github.com/jupiter-calisto/gne_exercises_aug25/pull/2
 ```
 
-
 ### Exercise 5d
 
-```bash
+```
 # Here is the example changes I committed to "l4-feature1"
 https://github.com/jupiter-calisto/gne_exercises_aug25/pull/2/files
 ```
 
-#### HERE ####
+### Exercise 5e
 
-####### Exercise 5e #######
-
+```
 # Here is the "merge" commit into the "main" branch:
-
-https://github.com/jupiter-calisto/gne_exercises/commit/82622d862ee087148a69971b3073cde01f1d56d4
+https://github.com/jupiter-calisto/gne_exercises_aug25/commit/97dfef5c0dc406aab9c8ecc270a594a98d41fcec
+```
 
