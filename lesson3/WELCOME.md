@@ -1,3 +1,3 @@
 
-# Welcome to the lesson4, testing branch.
+# Welcome to the testing branch.
 
