@@ -53,10 +53,10 @@ From https://github.com/twin-bridges/gne_exercises_aug25
 
 ```bash
 $ git branch -r
-  my_remote/l4-testing
+  my_remote/branch-testing
   my_remote/main
   origin/HEAD -> origin/main
-  origin/l4-testing
+  origin/branch-testing
   origin/main
 ```
 
