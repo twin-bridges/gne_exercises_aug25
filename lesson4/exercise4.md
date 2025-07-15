@@ -1,7 +1,7 @@
 
 ### Exercise 4a
 
-```bash
+```
 $ git push my_remote main
 Username for 'https://github.com': jupiter-calisto
 Password for 'https://jupiter-calisto@github.com': 
@@ -17,7 +17,7 @@ To https://github.com/jupiter-calisto/gne_exercises_aug25
 
 ### Exercise 4b
 
-```bash
+```
 Verify content and commit history on GitHub:
 
 Both local branch and GitHub for 'main' contained 23 commits with the latest
