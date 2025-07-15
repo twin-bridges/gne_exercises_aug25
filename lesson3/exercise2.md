@@ -20,17 +20,17 @@ $ git branch
 ```bash
 # Here, I only show the last five commits.
 $ git log --oneline
-51af644 (HEAD -> branch-testing, origin/branch-testing, my_remote/branch-testing) Add WELCOME.md to branch-testing branch
-05eaaf0 (origin/main, origin/HEAD, my_remote/main, main) Add lesson2 ex3 reference solution
+c8e9fff (HEAD -> branch-testing, origin/branch-testing, my_remote/branch-testing) Update WELCOME.md
+51af644 Add WELCOME.md to branch-testing branch
+05eaaf0 (main) Add lesson2 ex3 reference solution
 9f0ed63 Fixing merge conflict (lesson2)
 25b69b6 Prompt user for IP address in my_script.py
-8eadc5c Changing IP address in my_script.py
 ```
 
 ```bash
 $ cat lesson3/WELCOME.md 
 
-# Welcome to the lesson4, testing branch.
+# Welcome to the testing branch.
 
 ```
 
@@ -38,6 +38,7 @@ $ cat lesson3/WELCOME.md
 
 ```bash
 $ git branch -vv
-* branch-testing 51af644 [origin/branch-testing] Add WELCOME.md to branch-testing branch
-  main           05eaaf0 [origin/main] Add lesson2 ex3 reference solution
+* branch-testing c8e9fff [origin/branch-testing] Update WELCOME.md
+  main           05eaaf0 [origin/main: behind 6] Add lesson2 ex3 reference solution
+
 ```
